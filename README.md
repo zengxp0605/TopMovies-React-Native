@@ -7,13 +7,14 @@
 
 
 ## Screenshots
-![Android Preview 1](https://raw.githubusercontent.com/zengxp0605/TopMovies-React-Native/master/a1.jpg)
-![Android Preview 2](https://raw.githubusercontent.com/zengxp0605/TopMovies-React-Native/master/a2.jpg)
-![Android Preview 3](https://raw.githubusercontent.com/zengxp0605/TopMovies-React-Native/master/a3.jpg)
+![Android Preview 1](https://raw.githubusercontent.com/zengxp0605/TopMovies-React-Native/master/Screenshots/a1.jpg)
+![Android Preview 2](https://raw.githubusercontent.com/zengxp0605/TopMovies-React-Native/master/Screenshots/a2.jpg)
+![Android Preview 3](https://raw.githubusercontent.com/zengxp0605/TopMovies-React-Native/master/Screenshots/a3.jpg)
 
 ##TODO
 - IOS support
 - Welcome animation
+- Other pages
 
 
 ##Usage && Installation
