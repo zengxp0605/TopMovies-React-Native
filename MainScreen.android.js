@@ -53,7 +53,7 @@ var MainScreen = React.createClass({
     repository.cache.load({key:'m-page-1'}).then(rs =>{
       console.info('form cache',rs);
       _that.renderNewPage(rs); // 获取缓存后直接显示第一页数据
-
+      repository.incrPage();
     }).catch(err => { // 没有缓存数据则重新获取第一页
       repository.setPage(1);
       _that.loadPage();

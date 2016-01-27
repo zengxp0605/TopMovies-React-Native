@@ -135,7 +135,7 @@ var MoviesView = React.createClass({
       dataSource: new ListView.DataSource({
         rowHasChanged: (row1, row2) => row1 !== row2,
       }),
-      loaded: false, // 设置标示位
+      loaded: false, 
     };
   },
   //componentDidMount是React组件的一个方法，它会在组件刚加载完成的时候调用一次，以后不再会被调用。
