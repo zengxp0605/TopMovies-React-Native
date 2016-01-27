@@ -33,4 +33,4 @@ local.properties
 node_modules/
 npm-debug.log
 
-*-bak*.js
+android/app/my-release-key.keystore
